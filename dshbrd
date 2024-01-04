@@ -39,9 +39,6 @@
   "image": "https:\/\/cmhlmarketinggoodlifestg.blob.core.windows.net\/goodlife\/Fried%20rice.png",
   "link": "https:\/\/www.cityrewards.com.mm\/thegoodlife\/recipe\/post\/fish-paste-fried-rice"
  },
-
-
-
 {
   "name": "လက်ဖက်ချဥ်စပ်ငါးကင် ",
   "image": "https:\/\/cmhlmarketinggoodlifestg.blob.core.windows.net\/goodlife\/Beef%20and%20Mango%20Paste.png",
@@ -76,6 +73,11 @@
   "name": "ကြက်သားခရမ်းသီးချက်",
   "image": "https://cmhlmarketinggoodlifestg.blob.core.windows.net/goodlife/eggplant.png",
   "link": "https://www.cityrewards.com.mm/thegoodlife/recipe/post/chicken-eggplant"
+ },
+{
+  "name": "Sausage ငါးပိချက် ",
+  "image": "https://cmhlmarketinggoodlifestg.blob.core.windows.net/goodlife/Sausage%20Nga%20Pi%20Chat.png",
+  "link": "https://www.cityrewards.com.mm/thegoodlife/recipe/post/sausage-nga-pi-chat"
  }
 ]
 
